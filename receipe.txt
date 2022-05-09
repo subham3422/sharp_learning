@@ -4,3 +4,4 @@ welcome to sharpner learning
 
 curd
 rice
+mixed dal
