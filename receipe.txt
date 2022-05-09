@@ -5,6 +5,8 @@ welcome to sharpner learning
 curd
 rice
 mixed dal
+beans 
+papad
 
 
 thankyou
